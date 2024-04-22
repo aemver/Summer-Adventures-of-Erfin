@@ -7,4 +7,8 @@ Adjust the structure IF the code doesn't work to access the images before runnin
 ![image](https://github.com/aemver/Summer-Adventures-of-Erfin/assets/163652234/71126371-8ea7-4565-ad03-261ead86f2b9)
 
  ## CONTROLS
- Left arrow key, right arrow keys, and space to jump
+Press left arrow key and right arrow key to move the character, and press space to make the character jump.
+
+## IMAGES
+![image](https://github.com/aemver/Summer-Adventures-of-Erfin/assets/163652234/bd79bb82-ee83-429f-ba9f-a843bb6e9f31)
+![image](https://github.com/aemver/Summer-Adventures-of-Erfin/assets/163652234/531b3d68-efcd-4b4c-b4fa-4b8bf1ca457b)
